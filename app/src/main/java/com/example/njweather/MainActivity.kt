@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
     //weather url to get JSON
     var weather_url1 = ""
     //api id for url
-    var api_id1 = "6432d1c22b32445a809871688125500b"
+    var api_id1 = "3040f9f66c4948ae8002d450c432db66"
     private lateinit var textView: TextView
     private lateinit var fusedLocationClient: FusedLocationProviderClient
     override fun onCreate(savedInstanceState: Bundle?) {
